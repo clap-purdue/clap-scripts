@@ -1,0 +1,10 @@
+transformers @ git+https://github.com/huggingface/transformers
+datasets @ git+https://github.com/huggingface/datasets
+torch >= 1.5
+torchaudio
+librosa
+jiwer
+evaluate
+accelerate
+tensorboardX
+git-lfs
